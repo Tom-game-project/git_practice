@@ -40,5 +40,6 @@ label5 = tk.Label(
 hello world5
 """
 )
+label5.pack()
 
 root.mainloop()
