@@ -16,4 +16,10 @@ label1 = tk.Label(
 )
 label1.pack()
 
+label2 = tk.Label(
+    root,
+    text="""
+hello world2
+"""
+)
 root.mainloop()
