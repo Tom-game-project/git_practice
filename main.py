@@ -42,5 +42,12 @@ hello worrld4
 """
 )
 label4.pack()
+label5 = tk.Label(
+    root,
+    text="""
+hello world5
+"""
+)
+label5.pack()
 
 root.mainloop()
