@@ -32,22 +32,16 @@ label3 = tk.Label(
 hello world3
 """
 )
+
 label3.pack()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+label4 = tk.Label(
+    root,
+    text="""
+hello worrld4
+"""
+)
+label4.pack()
 label5 = tk.Label(
     root,
     text="""
