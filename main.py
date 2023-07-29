@@ -22,4 +22,13 @@ label2 = tk.Label(
 hello world2
 """
 )
+label2.pack()
+
+label3 = tk.Label(
+    root,
+    text="""
+hello world3
+"""
+)
+label3.pack()
 root.mainloop()
