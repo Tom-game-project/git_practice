@@ -12,7 +12,9 @@ label0.pack()
 
 label1 = tk.Label(
     root,
-    text="蛇足"
+    text="""
+hello world1
+"""
 )
 label1.pack()
 
